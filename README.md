@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 26.8 kB Used in GitHub's Storage 
  > 
-> 🏆 485 Contributions in the Year 2023
+> 🏆 486 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 34 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -59,16 +59,19 @@ Sunday                   400 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     4 mins              ████████████████████████░   96.92 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Go                       1 hr 39 mins        ████████████████░░░░░░░░░   65.86 % 
+JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Docker                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 mins              █████████████████████████   100.00 % 
+WSL                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/08/2023 16:35:34 UTC
+ Last Updated on 21/08/2023 16:36:44 UTC
 <!--END_SECTION:waka-->
