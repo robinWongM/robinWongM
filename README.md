@@ -59,16 +59,15 @@ Sunday                   407 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     10 mins             ████████████████████████░   97.35 % 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2023 16:37:21 UTC
+ Last Updated on 12/09/2023 16:37:11 UTC
 <!--END_SECTION:waka-->
