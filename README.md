@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 > 📦 27.5 kB Used in GitHub's Storage 
  > 
-> 🏆 539 Contributions in the Year 2023
+> 🏆 540 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,19 +59,15 @@ Sunday                   408 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Rust                     1 hr 12 mins        ██████████████████░░░░░░░   72.21 % 
-Vue.js                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 40 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 24/09/2023 16:35:47 UTC
+ Last Updated on 25/09/2023 16:37:54 UTC
 <!--END_SECTION:waka-->
