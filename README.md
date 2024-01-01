@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 27.8 kB Used in GitHub's Storage 
+> 📦 27.7 kB Used in GitHub's Storage 
  > 
-> 🏆 558 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -69,5 +69,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2023 16:36:21 UTC
+ Last Updated on 01/01/2024 16:36:26 UTC
 <!--END_SECTION:waka-->
