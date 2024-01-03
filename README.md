@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 > 📦 27.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -59,15 +59,20 @@ Sunday                   408 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     33 mins             █████████████░░░░░░░░░░░░   52.66 % 
+Vue.js                   20 mins             ████████░░░░░░░░░░░░░░░░░   32.45 % 
+Docker                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          ████████████████████████░   96.53 % 
+Unknown Editor           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/01/2024 16:37:00 UTC
+ Last Updated on 03/01/2024 16:36:55 UTC
 <!--END_SECTION:waka-->
