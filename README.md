@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 > 📦 28.5 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -59,8 +57,8 @@ Sunday                   397 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 41 mins        █████████████████████████   99.50 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+TypeScript               1 hr 41 mins        █████████████████████████   99.52 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
 VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
@@ -70,5 +68,5 @@ Windows                  1 hr 42 mins        ███████████�
 ```
 
 
- Last Updated on 03/05/2024 16:36:32 UTC
+ Last Updated on 04/05/2024 16:35:51 UTC
 <!--END_SECTION:waka-->
