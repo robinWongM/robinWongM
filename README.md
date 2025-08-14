@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 > 📦 33.4 kB Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2025
+> 🏆 114 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -59,19 +59,19 @@ Sunday                   449 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 53 mins        ██████████████████░░░░░░░   73.12 % 
-JSON                     40 mins             ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               1 hr 59 mins        ███████████████████░░░░░░   74.18 % 
+JSON                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/08/2025 16:40:29 UTC
+ Last Updated on 14/08/2025 16:43:02 UTC
 <!--END_SECTION:waka-->
