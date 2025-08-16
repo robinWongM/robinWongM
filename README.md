@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 33.4 kB Used in GitHub's Storage 
  > 
-> 🏆 114 Contributions in the Year 2025
+> 🏆 113 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -73,5 +73,5 @@ Windows                  2 hrs 41 mins       ███████████�
 ```
 
 
- Last Updated on 15/08/2025 16:41:58 UTC
+ Last Updated on 16/08/2025 16:40:30 UTC
 <!--END_SECTION:waka-->
