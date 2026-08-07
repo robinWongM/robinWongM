@@ -16,17 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 41.8 kB Used in GitHub's Storage 
  > 
-> 🏆 682 Contributions in the Year 2026
+> 🏆 684 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,48 +30,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-🌆 Daytime                1617 commits        ██████████████░░░░░░░░░░░   56.28 % 
-🌃 Evening                777 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-🌙 Night                  347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1170 commits        ██████████░░░░░░░░░░░░░░░   40.72 % 
-Tuesday                  138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-Wednesday                336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Thursday                 296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Friday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Saturday                 193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Sunday                   449 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 05/08/2026 18:30:58 UTC
+ Last Updated on 07/08/2026 17:13:18 UTC
 <!--END_SECTION:waka-->
