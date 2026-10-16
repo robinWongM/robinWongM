@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 56.0 kB Used in GitHub's Storage 
+> 📦 56.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,078 Contributions in the Year 2026
+> 🏆 1,083 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,21 +61,45 @@ Sunday                   449 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
+Markdown                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Other                    1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Objective-C              1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Swift                    1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             10 hrs 56 mins      █████████████████████░░░░   83.77 % 
+Claude Code              2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Codex CLI                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 hrs 3 mins (100.0%)
+
+✍️ 844 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 8,470,212 Input Tokens, 1,977,426 Output Tokens
+
+💵 $151.99 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 82 AI Prompts
+
+GPT                      820 lines           ████████████████████████░   97.04 % 
+Opus                     25 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 488 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 16:54:28 UTC
+ Last Updated on 16/10/2026 16:51:56 UTC
 <!--END_SECTION:waka-->
