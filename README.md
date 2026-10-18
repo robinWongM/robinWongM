@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-52%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 📦 56.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,083 Contributions in the Year 2026
+> 🏆 1,084 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,46 +61,47 @@ Sunday                   449 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-JavaScript               6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Python                   4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Other                    4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Objective-C              2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+JavaScript               16 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.39 % 
+Markdown                 14 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Other                    8 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Python                   5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Objective-C              2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-Codex Vscode             13 hrs 56 mins      ████████████░░░░░░░░░░░░░   49.08 % 
-Codex Exec               9 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
-Claude Code              4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Codex Exec               31 hrs 36 mins      ███████████████░░░░░░░░░░   60.66 % 
+Codex Vscode             14 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Claude Code              5 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Codex CLI                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Mac                      28 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      52 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 52 hrs 5 mins (100.0%)
 
-✍️ 9,337 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 12,339 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 26,964,895 Input Tokens, 5,792,038 Output Tokens
+🔤 50,374,116 Input Tokens, 12,066,924 Output Tokens
 
-💵 $374.57 Estimated AI Cost This Week
+💵 $806.11 Estimated AI Cost This Week
 
-🧠 73 AI Sessions, 217 AI Prompts
+🧠 119 AI Sessions, 290 AI Prompts
 
-GPT                      7,624 lines         ████████████████████░░░░░   81.11 % 
-Opus                     1,434 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Codex-Vscode             342 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+GPT                      10,339 lines        █████████████████████░░░░   83.26 % 
+Opus                     1,434 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Codex-Vscode             342 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Codex-Exec               303 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 575 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 551 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 16:48:32 UTC
+ Last Updated on 18/10/2026 16:47:56 UTC
 <!--END_SECTION:waka-->
