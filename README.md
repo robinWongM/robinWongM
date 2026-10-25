@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 📦 210.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,143 Contributions in the Year 2026
+> 🏆 1,170 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,46 +61,46 @@ Sunday                   449 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               57 hrs 5 mins       ███████████░░░░░░░░░░░░░░   42.91 % 
-Markdown                 38 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Python                   20 hrs 30 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Other                    8 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Objective-C              3 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JavaScript               57 hrs 12 mins      ███████████░░░░░░░░░░░░░░   43.04 % 
+Markdown                 34 hrs 29 mins      ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+Python                   24 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Other                    6 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Objective-C              4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-Codex Exec               118 hrs 17 mins     ██████████████████████░░░   88.91 % 
-Claude Code              10 hrs 39 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Codex Vscode             3 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Codex CLI                29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Codex Exec               116 hrs 9 mins      ██████████████████████░░░   87.37 % 
+Claude Code              10 hrs 54 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Codex Vscode             5 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Codex CLI                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      133 hrs 2 mins      █████████████████████████   100.00 % 
+Mac                      132 hrs 56 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 133 hrs 2 mins (100.0%)
+⏱ AI Coding Time: 132 hrs 56 mins (100.0%)
 
-✍️ 29,065 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 42,238 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 134,229,577 Input Tokens, 38,172,706 Output Tokens
+🔤 133,741,282 Input Tokens, 38,704,782 Output Tokens
 
-💵 $2089.33 Estimated AI Cost This Week
+💵 $2134.75 Estimated AI Cost This Week
 
-🧠 326 AI Sessions, 1085 AI Prompts
+🧠 323 AI Sessions, 1173 AI Prompts
 
-GPT                      27,196 lines        ███████████████████████░░   92.51 % 
-Opus                     1,898 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Codex-Exec               303 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+GPT                      36,424 lines        █████████████████████░░░░   85.42 % 
+Opus                     6,218 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 595 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 635 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 16:49:44 UTC
+ Last Updated on 25/10/2026 16:50:01 UTC
 <!--END_SECTION:waka-->
