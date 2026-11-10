@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-732%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-505%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-518%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 📦 212.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,240 Contributions in the Year 2026
+> 🏆 1,241 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,46 +61,46 @@ Sunday                   449 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   37 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-Markdown                 28 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-JavaScript               22 hrs 39 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Other                    18 hrs 48 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-TypeScript               12 hrs 9 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Python                   35 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Markdown                 32 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+JavaScript               17 hrs 21 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Other                    15 hrs 37 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+TypeScript               14 hrs 57 mins      ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 
 🔥 Editors: 
-Codex Exec               95 hrs 7 mins       █████████████████░░░░░░░░   67.33 % 
-Claude Code              43 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   30.98 % 
-Codex Vscode             1 hr 50 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Codex CLI                32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Codex Exec               87 hrs 41 mins      ████████████████░░░░░░░░░   65.01 % 
+Claude Code              44 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.15 % 
+Codex Vscode             1 hr 39 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Codex CLI                48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      141 hrs 16 mins     █████████████████████████   100.00 % 
+Mac                      134 hrs 53 mins     █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 141 hrs 16 mins (100.0%)
+⏱ AI Coding Time: 134 hrs 53 mins (100.0%)
 
-✍️ 80,684 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 74,149 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 102,830,311 Input Tokens, 35,000,145 Output Tokens
+🔤 93,115,194 Input Tokens, 31,168,473 Output Tokens
 
-💵 $2390.51 Estimated AI Cost This Week
+💵 $2231.47 Estimated AI Cost This Week
 
-🧠 240 AI Sessions, 1491 AI Prompts
+🧠 229 AI Sessions, 1335 AI Prompts
 
-Opus                     50,502 lines        ███████████████░░░░░░░░░░   60.82 % 
-GPT                      32,379 lines        ██████████░░░░░░░░░░░░░░░   39.00 % 
-Codex-Exec               152 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Opus                     45,046 lines        ███████████████░░░░░░░░░░   58.73 % 
+GPT                      31,254 lines        ██████████░░░░░░░░░░░░░░░   40.75 % 
+Codex-Exec               406 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,077 characters per prompt
+📄 Detailed Prompter — average 1,040 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/11/2026 16:46:35 UTC
+ Last Updated on 10/11/2026 16:49:44 UTC
 <!--END_SECTION:waka-->
