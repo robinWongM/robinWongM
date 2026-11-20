@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-617%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-622%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 213.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,272 Contributions in the Year 2026
+> 🏆 1,275 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,48 +61,47 @@ Sunday                   449 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               23 hrs 44 mins      █████████░░░░░░░░░░░░░░░░   34.30 % 
-JavaScript               15 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Markdown                 11 hrs 58 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Kotlin                   6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Other                    3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+TypeScript               22 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.16 % 
+JavaScript               13 hrs 53 mins      █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Markdown                 10 hrs 9 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Kotlin                   6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Other                    3 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🔥 Editors: 
-Claude Code              58 hrs 4 mins       █████████████████████░░░░   83.86 % 
-Codex Vscode             7 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Codex Exec               3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Claude Code              51 hrs 45 mins      ████████████████████░░░░░   81.09 % 
+Codex Vscode             10 hrs 15 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Codex Exec               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      69 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      63 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 69 hrs 14 mins (100.0%)
+⏱ AI Coding Time: 63 hrs 49 mins (100.0%)
 
-✍️ 25,269 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 21,748 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 25,649,663 Input Tokens, 9,890,468 Output Tokens
+🔤 21,805,899 Input Tokens, 8,465,903 Output Tokens
 
-💵 $1168.35 Estimated AI Cost This Week
+💵 $1151.69 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 964 AI Prompts
+🧠 67 AI Sessions, 864 AI Prompts
 
-Opus                     27,954 lines        █████████████████████████   98.21 % 
-GPT                      510 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     24,447 lines        ████████████████████████░   97.84 % 
+GPT                      540 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 846 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📄 Detailed Prompter — average 810 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/11/2026 16:46:18 UTC
+ Last Updated on 20/11/2026 16:46:45 UTC
 <!--END_SECTION:waka-->
