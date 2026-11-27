@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-643%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-646%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 213.5 kB Used in GitHub's Storage 
+> 📦 213.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,275 Contributions in the Year 2026
  > 
@@ -61,48 +61,48 @@ Sunday                   449 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Kotlin                   4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-TypeScript               3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Swift                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Other                    2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Other                    6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Kotlin                   4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Markdown                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Swift                    2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+JavaScript               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 10 mins      ████████████████████░░░░░   81.52 % 
-Codex Vscode             4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Antigravity Desktop      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              18 hrs 46 mins      ███████████████████░░░░░░   77.17 % 
+Antigravity Desktop      4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Codex Vscode             1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      25 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 57 mins (100.0%)
+⏱ AI Coding Time: 24 hrs 18 mins (100.0%)
 
-✍️ 10,764 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 10,281 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,735,588 Input Tokens, 2,635,223 Output Tokens
+🔤 6,227,198 Input Tokens, 2,136,017 Output Tokens
 
-💵 $536.87 Estimated AI Cost This Week
+💵 $332.25 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 343 AI Prompts
+🧠 47 AI Sessions, 326 AI Prompts
 
-Opus                     10,451 lines        ██████████████████████░░░   88.74 % 
-Fable                    1,249 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-GPT                      77 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Opus                     9,957 lines         ██████████████████████░░░   88.68 % 
+Fable                    1,249 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+GPT                      22 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 800 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 826 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/11/2026 16:47:31 UTC
+ Last Updated on 27/11/2026 16:46:28 UTC
 <!--END_SECTION:waka-->
